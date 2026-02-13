@@ -1,0 +1,30 @@
+
+.container {
+    max-width: 450px;
+    margin-top: 80px;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+
+h1 {
+    font-family: 'Poppins', sans-serif;  
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: rgb(190, 132, 24);  
+}
+
+label {
+    font-weight: 600;
+    float: left;
+    margin-top: 10px;
+}
+
+body{ 
+    background-image: url(images\ \(2\).jpg);
+    background-repeat:  no-repeat;
+    background-size: cover;
+}
